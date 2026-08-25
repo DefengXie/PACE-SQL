@@ -49,10 +49,8 @@ PACE-SQL is built on three key stages:
 | Item | Status |
 | :--- | :--- |
 | 📄 Paper | Coming soon |
-| 🧠 Model checkpoints | Coming soon |
-| 💾 WeSQL-1.5M dataset | Coming soon |
 | 💾 OpenSQL-FIM dataset | Coming soon |
-| 🛠️ Training & evaluation code | Coming soon |
+| 🛠️ evaluation code | Coming soon |
 
 We are actively preparing the release. Please **⭐ Star** and **👀 Watch** this repository to get notified when materials are available.
 
